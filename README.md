@@ -1,7 +1,10 @@
 ## :warning: USE AT YOUR OWN RISK :warning:
 Just to cover my ass
 
+Neptune 3 Pro is shamelessly copy pasted, thoughtlessly merged, and untested to an unknowable degree
 # Elegoo Neptune Support
+Add Neptune 3 Pro Support
+
 Adds Neptune 2 Cura Support
 
 Adds Neptune 2D Cura Support
